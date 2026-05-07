@@ -20,7 +20,7 @@
 I'm a **Mechatronics Engineer** with a deep focus on **AI, Computer Vision, and Embedded Systems**. I build systems that sit at the intersection of hardware intelligence and software — from custom-trained detection models to deployable ML web apps.
 
 - 🔭 Currently building **[MangoScan](https://github.com/rakibulnishat/MangoScan)** — a mango leaf disease classifier with dual XAI validation (Grad-CAM + LIME)
-- 🤖 Working on **deepfake video detection** using EfficientNet-B4 + Spatiotemporal Adapters + Transformers
+- 🤖 Working on **[deepfake video detection](https://github.com/rakibulnishat/deepfake-video-detector)** using EfficientNet-B4 + Spatiotemporal Adapters + Transformers
 - 🎯 Passionate about **Explainable AI (XAI)**, real-world CV deployment, and robotic automation
 - 🌱 Exploring **LLMs**, **edge AI on embedded hardware**, and **autonomous systems**
 - ⚡ Fun fact: I train neural nets and also wire up circuits — both kinds of neurons
@@ -91,8 +91,8 @@ I'm a **Mechatronics Engineer** with a deep focus on **AI, Computer Vision, and 
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-58a6ff?style=for-the-badge)](https://rakibulnishat.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakibul-hasan-nishat-8a9907200?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/rakibulnishat)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakibulnishat@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/nishaatt/spaces)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakibulnishat1864@gmail.com)
 
 </div>
 
