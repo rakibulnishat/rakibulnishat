@@ -90,7 +90,7 @@ I'm a **Mechatronics Engineer** with a deep focus on **AI, Computer Vision, and 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-58a6ff?style=for-the-badge)](https://rakibulnishat.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakibulnishat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakibul-hasan-nishat-8a9907200?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/rakibulnishat)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakibulnishat@gmail.com)
 
