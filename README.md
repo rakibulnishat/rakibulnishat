@@ -21,7 +21,7 @@ I'm a **Mechatronics Engineer** with a deep focus on **AI, Computer Vision, and 
 
 - 🔭 Currently building **[MangoScan](https://github.com/rakibulnishat/MangoScan)** — a mango leaf disease classifier with dual XAI validation (Grad-CAM + LIME)
 - 🤖 Working on **[deepfake video detection](https://github.com/rakibulnishat/deepfake-video-detector)** using EfficientNet-B4 + Spatiotemporal Adapters + Transformers
-- 🎯 Passionate about **Explainable AI (XAI)**, real-world CV deployment, and robotic automation
+- 🎯 Passionate about **Explainable AI (XAI)**, and robotic automation
 - 🌱 Exploring **LLMs**, **edge AI on embedded hardware**, and **autonomous systems**
 - ⚡ Fun fact: I train neural nets and also wire up circuits — both kinds of neurons
 
